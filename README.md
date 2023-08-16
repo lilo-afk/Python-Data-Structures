@@ -8,6 +8,16 @@
     <br/>
 </div>
 
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/lilo-afk/Python-Data-Structures)
+![GitHub Repo stars](https://img.shields.io/github/stars/lilo-afk/Python-Data-Structures)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/lilo-afk/Python-Data-Structures?color=orange)
+
+![GitHub](https://img.shields.io/github/license/lilo-afk/Python-Data-Structures?color=yellow)
+</div>
+
+
 <details>
   <summary>Sumário</summary>
   <ol>
